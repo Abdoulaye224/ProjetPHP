@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+	background-image:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+.center-tout{
+	
+	border: 1px groove #ddd !important;
+    padding: 10px 10px 10px 10px !important;
+    margin: 250px 1000px 1000px 250px !important;
+}
+
+fieldset.form-group {
+
+
+}
+ form {
+
+	 width: 40%;
+	 margin-top:1%;
+	margin-left: 25%;
+	 border: 1px black solid;
+	 background-color: white;
+ }
+form.outset {
+	border-style: outset;
+	}
+	
+.boutonCO{
+	font-size:large;
+}
+

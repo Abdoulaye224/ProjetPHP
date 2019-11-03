@@ -1,0 +1,46 @@
+body{
+    font:Georgia, "Times New Roman", Times, serif;
+    font-size:20px;
+    text-decoration: none;
+}
+
+.cat{
+    color:skyblue;
+}
+
+#articles{
+    text-decoration: none;
+    min-height: 500px;
+    border: 1px dotted #F3EEEC; 
+    margin-top: 100px;
+}
+
+#détails{
+    height: 527px;
+    padding: 3px;
+    border: 1px dotted #F3EEEC;
+    margin-top: 100px;
+    
+}
+
+#article{
+    text-align: left;
+    padding: 8px;
+    margin: 5px;
+    width: 150px;
+    text-decoration: none;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+}
+img{
+    position:absolute;
+	align-content:right;
+}
+
